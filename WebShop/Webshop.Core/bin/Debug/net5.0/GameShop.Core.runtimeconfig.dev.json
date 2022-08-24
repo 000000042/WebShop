@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rasaa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rasaa\\.nuget\\packages",
+      "E:\\vsvs\\vs sdk\\NuGetPackages"
+    ]
+  }
+}
